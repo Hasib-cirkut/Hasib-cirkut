@@ -32,4 +32,6 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Brief History of JavaScript Part 2](https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2)
+- [A Brief History of JavaScript Part 1.](https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-1)
 <!-- BLOG-POST-LIST:END -->
