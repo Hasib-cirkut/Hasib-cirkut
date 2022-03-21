@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [https://www.welldev.io/](https://www.welldev.io/)
 
-- 🌱 I’m currently working with **Vanilla JS, CSS and React.js**
+- 🌱 Working with **Vanilla JS, CSS and React.js**.
 
 - 📝 I regularly write articles on [https://adibhasib.hashnode.dev/](https://adibhasib.hashnode.dev/)
 
