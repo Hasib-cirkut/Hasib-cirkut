@@ -32,6 +32,7 @@
 ## Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everyone needs some closure in their life.](https://adibhasib.hashnode.dev/everyone-needs-some-closure-in-their-life)
 - [What is Hoisting in JavaScript?](https://adibhasib.hashnode.dev/what-is-hoisting-in-javascript)
 - [A Brief History of JavaScript Part 2](https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-2)
 - [A Brief History of JavaScript Part 1](https://adibhasib.hashnode.dev/a-brief-history-of-javascript-part-1)
