@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working at [https://www.welldev.io/](https://www.welldev.io/)
 
-- 🌱 Working with **Vanilla JS, CSS and React.js**.
-
-- 📝 I regularly write articles on [https://adibhasib.hashnode.dev/](https://adibhasib.hashnode.dev/)
-
 - 📫 How to reach me **hasibulhuda1@gmail.com**
 
 - ⚡ Fun fact **I was born in Cox's Bazar which has the longest sea beach in the world.**
